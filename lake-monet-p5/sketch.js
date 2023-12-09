@@ -1,3 +1,5 @@
+import * as THREE from 'three';
+
 function setup() {
   createCanvas(400, 400);
 }
